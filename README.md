@@ -13,3 +13,8 @@ Link: https://www.ilrc.org/red-cards-tarjetas-rojas
 An empowerment campaign to prepare for and safely defend our rights during encounters with Immigration & Customs Enforcement (ICE).
 
 Link: https://www.wehaverights.us
+
+## Surveillance self-defense
+This is Surveillance Self-Defense: our expert guide to protecting you and your friends from online spying.
+
+Link: https://ssd.eff.org
