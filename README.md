@@ -1,6 +1,6 @@
 # Immigrant-Privacy
-[![en](https://img.shields.io/badge/lang-en-red.svg)]()
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)]()
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/piranhap/Immigrant-Privacy/blob/main/README.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/piranhap/Immigrant-Privacy/blob/main/README.es.md)
 
 Repository made for immigrants to stay safe on the internet and on the streets, undocumented or not. Let's take care of each other. 
 
