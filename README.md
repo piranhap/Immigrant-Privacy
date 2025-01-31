@@ -1,6 +1,6 @@
 # Immigrant-Privacy
 [![en](https://img.shields.io/badge/lang-en-red.svg)]()
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)]
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)]()
 
 Repository made for immigrants to stay safe on the internet and on the streets, undocumented or not. Let's take care of each other. 
 
